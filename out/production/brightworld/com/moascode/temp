@@ -1,2 +1,0 @@
-private static final String INPUT_FILE = "C:\\dev docu\\Backlog\\87130 Analyze Performance Issue on BookingServer [TB]\\20241205-JBS101-S4M-3867\\server.log";
-private static final String OUTPUT_FILE = "C:\\dev docu\\Backlog\\87130 Analyze Performance Issue on BookingServer [TB]\\20241205-JBS101-S4M-3867\\analysis\\server.csv";
